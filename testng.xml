@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" verbose="1">
+    <test name = "Test">
+        <classes>
+            <class name="com.mysl.qa.testcases.HomePageTest"/>
+        </classes>
+    </test>
+    <test name = "Test1">
+    <classes>
+            <class name="com.mysl.qa.testcases.LoginPageTest"/>
+    </classes>
+    </test>
+    <test name = "Test2">
+    <classes>
+            <class name="com.mysl.qa.testcases.ProductDescriptionPageTest"/>
+    </classes>
+    </test>
+    <test name = "Test3">
+    <classes>
+            <class name="com.mysl.qa.testcases.CartPageTest"/>
+    </classes>
+    </test>
+    <test name = "Test4">
+    <classes>
+            <class name="com.mysl.qa.testcases.CheckoutPageTest"/>
+    </classes>
+    </test>
+    <test name = "Test5">
+        <classes>
+            <class name="com.mysl.qa.testcases.CategoryPageTest"/>
+        </classes>
+    </test>
+    <test name = "Test6">
+        <classes>
+            <class name="com.mysl.qa.testcases.OtherPaymentsPageTest"/>
+        </classes>
+    </test>
+    <test name = "Test7">
+        <classes>
+            <class name="com.mysl.qa.testcases.HirePurchasePageTest"/>
+        </classes>
+    </test>
+    <test name = "Test8">
+        <classes>
+            <class name="com.mysl.qa.testcases.NewArrivalsPageTest"/>
+        </classes>
+    </test>
+</suite>
